@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Title: add file
-=======
-Title: file on featurex
->>>>>>> featurex
+Title: Final
